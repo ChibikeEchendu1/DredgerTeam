@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048876473488",
+    "firebase_url": "https://ironteam-2046e.firebaseio.com",
+    "project_id": "ironteam-2046e",
+    "storage_bucket": "ironteam-2046e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048876473488:android:a197a254f7733e0f548c15",
+        "android_client_info": {
+          "package_name": "com.ironteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048876473488-e7e3n4s3pbuv0isij9hlju1hqqchslg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzPnokek-bDoGz0fU87m-zhmR5tcOTeEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048876473488-e7e3n4s3pbuv0isij9hlju1hqqchslg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048876473488-3ujpap8h97arvt99n1nvpeovos8vtvqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.IRONTEAM"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
